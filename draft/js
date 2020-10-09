@@ -1,0 +1,3 @@
+document.querySelector("#next-steps > ul")
+document.querySelector("#next-steps > ul > li.jekyll")
+document.querySelector("#next-steps > ul > li.jekyll > a")
