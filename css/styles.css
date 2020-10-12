@@ -9,11 +9,23 @@
     display: block;
     margin: auto;
     margin-top: 20px;
+    color: white;
+}
+.salsh{
+    margin-bottom: 12%;
 
 }
 .what h4{
     text-align: center;
+    padding: 20px;
 
+}
+.what{
+    text-align: center;
+}
+.aboutUs{
+    text-align: center;
+    padding: 20px;
 }
 
 .Contact{
@@ -40,7 +52,10 @@
     background-repeat: no-repeat;
     text-align: center;
     color: white;
+    padding: 20px;
+    font-size: 30px;
 }
+
 
 #form {
     /* background-image: url(../assets/backgrounds/c_image.jpg); */
@@ -73,4 +88,14 @@ input[type=text], select, textarea {
 input[type=submit] {
     cursor: pointer;
     text-align:center;
+}
+footer{
+    text-align: center;
+    padding: 22px;
+}
+.Dlogo{
+    margin-bottom: 18%;
+}
+.salma{
+    display: none;
 }
