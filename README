@@ -8,7 +8,7 @@ Open your terminal (CTRL ALT T)
 cd into a folder and initalise git
 Clone the project from github git clone https://github.com/salma2020-moringa/week3project.github.io.git
 Open the folder in your text editor prefferably VS-code (code .)
-Technologies
+<strong>Technologies<strong>
 HTML5
 CSS3
 Javascript and Jquery
@@ -18,4 +18,4 @@ Contact
 Twitter: [salmaladha]
 License
 MIT License MIT license
-Copyright © 2020 SALMA LADHA
+Copyright © 2020 SALMA NTIDENDEREZA
